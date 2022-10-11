@@ -7,7 +7,7 @@ Data was organized and analyzed with stastical tools, focusing basically in thea
 
 ## Results
 
-*This line chart show the tendencies* ![This is an image](https://github.com/cazaresG/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) 
+*This line chart show the tendencies* ![This is an image](https://github.com/cazaresG/Bikesharing/blob/ef7fe6e077f58749fd68e53ac8f9d3e6b01e6725/images/checkout_times_users.png) 
 
 
 *This line chart organized in ranges display the results* ![This is an image](https://github.com/cazaresG/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
