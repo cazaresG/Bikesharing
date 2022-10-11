@@ -14,8 +14,15 @@ Data was organized and analyzed with stastical tools, focusing basically in thea
 
 
 *The Outlier Analysis chart shows the suspicious data* 
-![This is an image](https://github.com/cazaresG/kickstarter-analysis/blob/main/Goals_Box_and_Whiskers.png)
+![This is an image](https://github.com/cazaresG/Bikesharing/blob/326902e7a777cfc8e91b206eefd4c159b1d47c90/images/trips_weekday_hour.png)
 
+
+*The Outlier Analysis chart shows the suspicious data* 
+![This is an image](https://github.com/cazaresG/Bikesharing/blob/326902e7a777cfc8e91b206eefd4c159b1d47c90/images/trips_weekday_hour.png)
+
+
+*The Outlier Analysis chart shows the suspicious data* 
+![This is an image](https://github.com/cazaresG/Bikesharing/blob/326902e7a777cfc8e91b206eefd4c159b1d47c90/images/trips_weekday_hour.png)
 
 ## Results
 
