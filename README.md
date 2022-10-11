@@ -2,8 +2,6 @@
 
 ## Overview
 
-The client, Louise, wanted to analyze the collected data regarding the kickstarter campaigns related to financial goals.
-Data was organized and analyzed with stastical tools, focusing basically in theatrical plays.
 
 ## Results
 
