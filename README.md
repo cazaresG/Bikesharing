@@ -18,7 +18,7 @@ Data was organized and analyzed with stastical tools, focusing basically in thea
 
 
 *The Outlier Analysis chart shows the suspicious data* 
-![This is an image](https://github.com/cazaresG/Bikesharing/blob/326902e7a777cfc8e91b206eefd4c159b1d47c90/images/trips_weekday_hour.png)
+![This is an image](https://github.com/cazaresG/Bikesharing/blob/eb04206609d71400c29c325fa4c7b4ab6c26eab8/images/trips_gender_weekday_hour_1.png)
 
 
 *The Outlier Analysis chart shows the suspicious data* 
